@@ -4,26 +4,26 @@
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="172.891px" height="39.386px" viewBox="0 0 172.891 39.386" enable-background="new 0 0 172.891 39.386"
 	 xml:space="preserve">
-<text transform="matrix(1 0 0 1 29.8994 8.8438)"><tspan x="0" y="0" font-family="'FZKTK--GBK1-0'" font-size="10">常温、常压</tspan><tspan x="0" y="14" font-family="'FZKTK--GBK1-0'" font-size="10">炭素</tspan><tspan x="0" y="28" font-family="'FZKTK--GBK1-0'" font-size="10">二千度、五万五千气压</tspan></text>
-<text transform="matrix(1 0 0 1 162.8911 16.2695)"><tspan x="0" y="0" font-family="'FZKTK--GBK1-0'" font-size="10">炭</tspan><tspan x="0" y="14" font-family="'FZKTK--GBK1-0'" font-size="10">钻</tspan></text>
+<text transform="matrix(1 0 0 1 29.8994 8.8438)"><tspan x="0" y="0" font-family="'KaiTi'" font-size="10">常温、常压</tspan><tspan x="0" y="14" font-family="'KaiTi'" font-size="10">炭素</tspan><tspan x="0" y="28" font-family="'KaiTi'" font-size="10">二千度、五万五千气压</tspan></text>
+<text transform="matrix(1 0 0 1 162.8911 16.2695)"><tspan x="0" y="0" font-family="'KaiTi'" font-size="10">炭</tspan><tspan x="0" y="14" font-family="'KaiTi'" font-size="10">钻</tspan></text>
 <g>
-	<text transform="matrix(1 0 0 1 8.126 9.1875)" font-family="'FZKTK--GBK1-0'" font-size="10">缘</text>
+	<text transform="matrix(1 0 0 1 8.126 9.1875)" font-family="'KaiTi'" font-size="10">缘</text>
 	<circle fill="none" stroke="#231815" stroke-width="0.5" stroke-miterlimit="10" cx="13.126" cy="6" r="5.75"/>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 8.1255 36.5732)" font-family="'FZKTK--GBK1-0'" font-size="10">缘</text>
+	<text transform="matrix(1 0 0 1 8.1255 36.5732)" font-family="'KaiTi'" font-size="10">缘</text>
 	<circle fill="none" stroke="#231815" stroke-width="0.5" stroke-miterlimit="10" cx="13.125" cy="33.386" r="5.75"/>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 8.1309 22.855)" font-family="'FZKTK--GBK1-0'" font-size="10">因</text>
+	<text transform="matrix(1 0 0 1 8.1309 22.855)" font-family="'KaiTi'" font-size="10">因</text>
 	<circle fill="none" stroke="#231815" stroke-width="0.5" stroke-miterlimit="10" cx="13.126" cy="19.693" r="5.75"/>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 142.1924 16.1748)" font-family="'FZKTK--GBK1-0'" font-size="10">果</text>
+	<text transform="matrix(1 0 0 1 142.1924 16.1748)" font-family="'KaiTi'" font-size="10">果</text>
 	<circle fill="none" stroke="#231815" stroke-width="0.5" stroke-miterlimit="10" cx="147.196" cy="13.019" r="5.75"/>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 142.1924 29.9414)" font-family="'FZKTK--GBK1-0'" font-size="10">果</text>
+	<text transform="matrix(1 0 0 1 142.1924 29.9414)" font-family="'KaiTi'" font-size="10">果</text>
 	<circle fill="none" stroke="#231815" stroke-width="0.5" stroke-miterlimit="10" cx="147.196" cy="26.785" r="5.75"/>
 </g>
 <g>

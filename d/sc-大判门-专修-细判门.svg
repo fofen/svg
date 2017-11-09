@@ -5,14 +5,14 @@
 	 width="287.716px" height="53.625px" viewBox="0 0 287.716 53.625" enable-background="new 0 0 287.716 53.625"
 	 xml:space="preserve">
 <g>
-	<text transform="matrix(1 0 0 1 0 26.0537)" font-family="'FZKTK--GBK1-0'" font-size="10">大判门</text>
-	<text transform="matrix(1 0 0 1 39.6675 26.0537)" font-family="'FZKTK--GBK1-0'" font-size="10">往生行</text>
-	<text transform="matrix(1 0 0 1 30.4175 51.3594)" font-family="'FZKTK--GBK1-0'" font-size="10">祈祷现世</text>
-	<text transform="matrix(1 0 0 1 79.5669 15.4429)" font-family="'FZKTK--GBK1-0'" font-size="10">专修…正行</text>
-	<text transform="matrix(1 0 0 1 138.7007 8.5938)"><tspan x="0" y="0" font-family="'FZKTK--GBK1-0'" font-size="10">正定业</tspan><tspan x="0" y="14" font-family="'FZKTK--GBK1-0'" font-size="10" letter-spacing="10">助业</tspan></text>
-	<text transform="matrix(1 0 0 1 178.1514 22.7095)"><tspan x="0" y="0" font-family="'FZKTK--GBK1-0'" font-size="10">助正兼行</tspan><tspan x="0" y="14" font-family="'FZKTK--GBK1-0'" font-size="10">正杂兼行</tspan><tspan x="0" y="28" font-family="'FZKTK--GBK1-0'" font-size="10">专名祈现</tspan></text>
-	<text transform="matrix(1 0 0 1 228.3999 8.5938)"><tspan x="0" y="0" font-family="'FZKTK--GBK1-0'" font-size="10">专修</tspan><tspan x="0" y="28" font-family="'FZKTK--GBK1-0'" font-size="10">杂修</tspan></text>
-	<text transform="matrix(1 0 0 1 257.7163 22.7095)" font-family="'FZKTK--GBK1-0'" font-size="10">细判门</text>
+	<text transform="matrix(1 0 0 1 0 26.0537)" font-family="'KaiTi'" font-size="10">大判门</text>
+	<text transform="matrix(1 0 0 1 39.6675 26.0537)" font-family="'KaiTi'" font-size="10">往生行</text>
+	<text transform="matrix(1 0 0 1 30.4175 51.3594)" font-family="'KaiTi'" font-size="10">祈祷现世</text>
+	<text transform="matrix(1 0 0 1 79.5669 15.4429)" font-family="'KaiTi'" font-size="10">专修…正行</text>
+	<text transform="matrix(1 0 0 1 138.7007 8.5938)"><tspan x="0" y="0" font-family="'KaiTi'" font-size="10">正定业</tspan><tspan x="0" y="14" font-family="'KaiTi'" font-size="10" letter-spacing="10">助业</tspan></text>
+	<text transform="matrix(1 0 0 1 178.1514 22.7095)"><tspan x="0" y="0" font-family="'KaiTi'" font-size="10">助正兼行</tspan><tspan x="0" y="14" font-family="'KaiTi'" font-size="10">正杂兼行</tspan><tspan x="0" y="28" font-family="'KaiTi'" font-size="10">专名祈现</tspan></text>
+	<text transform="matrix(1 0 0 1 228.3999 8.5938)"><tspan x="0" y="0" font-family="'KaiTi'" font-size="10">专修</tspan><tspan x="0" y="28" font-family="'KaiTi'" font-size="10">杂修</tspan></text>
+	<text transform="matrix(1 0 0 1 257.7163 22.7095)" font-family="'KaiTi'" font-size="10">细判门</text>
 	<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="31.477" y1="22.709" x2="37.123" y2="22.709"/>
 	<g>
 		
@@ -23,7 +23,7 @@
 		
 			<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="134.504" y1="4.874" x2="134.504" y2="19.546"/>
 	</g>
-	<text transform="matrix(1 0 0 1 79.5669 36.7588)" font-family="'FZKTK--GBK1-0'" font-size="10">杂修…杂行</text>
+	<text transform="matrix(1 0 0 1 79.5669 36.7588)" font-family="'KaiTi'" font-size="10">杂修…杂行</text>
 	
 		<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="170.692" y1="19.296" x2="176.317" y2="19.296"/>
 	

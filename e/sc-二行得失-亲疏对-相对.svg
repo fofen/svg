@@ -5,9 +5,9 @@
 	 width="158.992px" height="66.859px" viewBox="0 0 158.992 66.859" enable-background="new 0 0 158.992 66.859"
 	 xml:space="preserve">
 <g>
-	<text transform="matrix(1 0 0 1 0 36.5938)" font-family="'FZKTK--GBK1-0'" font-size="10">二行得失</text>
-	<text transform="matrix(1 0 0 1 48.9351 8.5938)"><tspan x="0" y="0" font-family="'FZKTK--GBK1-0'" font-size="10" letter-spacing="15">亲疏对</tspan><tspan x="0" y="14" font-family="'FZKTK--GBK1-0'" font-size="10" letter-spacing="15">近远对</tspan><tspan x="0" y="28" font-family="'FZKTK--GBK1-0'" font-size="10" letter-spacing="2">无间有间对</tspan><tspan x="0" y="42" font-family="'FZKTK--GBK1-0'" font-size="10">不回向回向对</tspan><tspan x="0" y="56" font-family="'FZKTK--GBK1-0'" font-size="10" letter-spacing="15">纯杂对</tspan></text>
-	<text transform="matrix(1 0 0 1 118.9922 36.5938)" font-family="'FZKTK--GBK1-0'" font-size="10">五番相对</text>
+	<text transform="matrix(1 0 0 1 0 36.5938)" font-family="'KaiTi'" font-size="10">二行得失</text>
+	<text transform="matrix(1 0 0 1 48.9351 8.5938)"><tspan x="0" y="0" font-family="'KaiTi'" font-size="10" letter-spacing="15">亲疏对</tspan><tspan x="0" y="14" font-family="'KaiTi'" font-size="10" letter-spacing="15">近远对</tspan><tspan x="0" y="28" font-family="'KaiTi'" font-size="10" letter-spacing="2">无间有间对</tspan><tspan x="0" y="42" font-family="'KaiTi'" font-size="10">不回向回向对</tspan><tspan x="0" y="56" font-family="'KaiTi'" font-size="10" letter-spacing="15">纯杂对</tspan></text>
+	<text transform="matrix(1 0 0 1 118.9922 36.5938)" font-family="'KaiTi'" font-size="10">五番相对</text>
 	<g>
 		<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="43.612" y1="4.869" x2="43.612" y2="61.257"/>
 		<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="43.382" y1="5.127" x2="46.278" y2="5.127"/>

@@ -5,15 +5,15 @@
 	 width="302.465px" height="96.359px" viewBox="0 0 302.465 96.359" enable-background="new 0 0 302.465 96.359"
 	 xml:space="preserve">
 <g>
-	<text transform="matrix(1 0 0 1 0 33.4263)" font-family="'FZKTK--GBK1-0'" font-size="10">观经</text>
-	<text transform="matrix(1 0 0 1 30.3501 8.5938)" font-family="'FZKTK--GBK1-0'" font-size="10">定善</text>
-	<text transform="matrix(1 0 0 1 60.4292 30.1274)"><tspan x="0" y="0" font-family="'FZKTK--GBK1-0'" font-size="10" letter-spacing="3">上三品</tspan><tspan x="0" y="28" font-family="'FZKTK--GBK1-0'" font-size="10">中</tspan><tspan x="0" y="56" font-family="'FZKTK--GBK1-0'" font-size="10" letter-spacing="3">下三品</tspan></text>
-	<text transform="matrix(1 0 0 1 77.7754 44.127)"><tspan x="0" y="0" font-family="'FZKTK--GBK1-0'" font-size="10">上品</tspan><tspan x="0" y="14" font-family="'FZKTK--GBK1-0'" font-size="10">中品</tspan><tspan x="0" y="28" font-family="'FZKTK--GBK1-0'" font-size="10">下品</tspan></text>
-	<text transform="matrix(1 0 0 1 139.0137 79.5264)"><tspan x="0" y="0" font-family="'FZKTK--GBK1-0'" font-size="10">显(万行随一)</tspan><tspan x="0" y="14" font-family="'FZKTK--GBK1-0'" font-size="10">隐(非定非散)</tspan></text>
-	<text transform="matrix(1 0 0 1 212.4248 8.5938)" font-family="'FZKTK--GBK1-0'" font-size="10">十三定观</text>
-	<text transform="matrix(1 0 0 1 262.4648 31.8281)" font-family="'FZKTK--GBK1-0'" font-size="10">方便要门</text>
-	<text transform="matrix(1 0 0 1 108.9565 30.1274)"><tspan x="0" y="0" font-family="'FZKTK--GBK1-0'" font-size="10">行福</tspan><tspan x="0" y="42" font-family="'FZKTK--GBK1-0'" font-size="10">世福</tspan><tspan x="0" y="56" font-family="'FZKTK--GBK1-0'" font-size="10">念佛</tspan></text>
-	<text transform="matrix(1 0 0 1 108.9565 51.2944)" font-family="'FZKTK--GBK1-0'" font-size="10">戒福</text>
+	<text transform="matrix(1 0 0 1 0 33.4263)" font-family="'KaiTi'" font-size="10">观经</text>
+	<text transform="matrix(1 0 0 1 30.3501 8.5938)" font-family="'KaiTi'" font-size="10">定善</text>
+	<text transform="matrix(1 0 0 1 60.4292 30.1274)"><tspan x="0" y="0" font-family="'KaiTi'" font-size="10" letter-spacing="3">上三品</tspan><tspan x="0" y="28" font-family="'KaiTi'" font-size="10">中</tspan><tspan x="0" y="56" font-family="'KaiTi'" font-size="10" letter-spacing="3">下三品</tspan></text>
+	<text transform="matrix(1 0 0 1 77.7754 44.127)"><tspan x="0" y="0" font-family="'KaiTi'" font-size="10">上品</tspan><tspan x="0" y="14" font-family="'KaiTi'" font-size="10">中品</tspan><tspan x="0" y="28" font-family="'KaiTi'" font-size="10">下品</tspan></text>
+	<text transform="matrix(1 0 0 1 139.0137 79.5264)"><tspan x="0" y="0" font-family="'KaiTi'" font-size="10">显(万行随一)</tspan><tspan x="0" y="14" font-family="'KaiTi'" font-size="10">隐(非定非散)</tspan></text>
+	<text transform="matrix(1 0 0 1 212.4248 8.5938)" font-family="'KaiTi'" font-size="10">十三定观</text>
+	<text transform="matrix(1 0 0 1 262.4648 31.8281)" font-family="'KaiTi'" font-size="10">方便要门</text>
+	<text transform="matrix(1 0 0 1 108.9565 30.1274)"><tspan x="0" y="0" font-family="'KaiTi'" font-size="10">行福</tspan><tspan x="0" y="42" font-family="'KaiTi'" font-size="10">世福</tspan><tspan x="0" y="56" font-family="'KaiTi'" font-size="10">念佛</tspan></text>
+	<text transform="matrix(1 0 0 1 108.9565 51.2944)" font-family="'KaiTi'" font-size="10">戒福</text>
 	<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="71.045" y1="55.445" x2="73.941" y2="55.445"/>
 	<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="73.941" y1="41.682" x2="76.837" y2="41.682"/>
 	<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="73.941" y1="69.131" x2="76.837" y2="69.131"/>
@@ -63,14 +63,14 @@
 	</g>
 	
 		<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="203.529" y1="26.375" x2="203.529" y2="75.938"/>
-	<text transform="matrix(1 0 0 1 212.4248 54.7739)" font-family="'FZKTK--GBK1-0'" font-size="10">三福九品</text>
+	<text transform="matrix(1 0 0 1 212.4248 54.7739)" font-family="'KaiTi'" font-size="10">三福九品</text>
 	<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="257.364" y1="28.594" x2="260.26" y2="28.594"/>
 	<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="254.468" y1="5.344" x2="257.363" y2="5.344"/>
 	
 		<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="254.468" y1="51.387" x2="257.363" y2="51.387"/>
 	<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="257.363" y1="5.108" x2="257.363" y2="51.606"/>
-	<text transform="matrix(1 0 0 1 262.4648 94.0938)" font-family="'FZKTK--GBK1-0'" font-size="10">真实弘愿</text>
-	<text transform="matrix(1 0 0 1 30.3501 57.9951)" font-family="'FZKTK--GBK1-0'" font-size="10">散善</text>
+	<text transform="matrix(1 0 0 1 262.4648 94.0938)" font-family="'KaiTi'" font-size="10">真实弘愿</text>
+	<text transform="matrix(1 0 0 1 30.3501 57.9951)" font-family="'KaiTi'" font-size="10">散善</text>
 	<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="53.104" y1="5.377" x2="209.279" y2="5.377"/>
 </g>
 </svg>
