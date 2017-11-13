@@ -83,8 +83,8 @@
 <text transform="matrix(1 0 0 1 210.0034 83.6309)" font-family="KaiTi" font-size="10px">我</text>
 <text transform="matrix(1 0 0 1 220.0034 83.6309)" font-family="KaiTi" font-size="10px">成</text>
 <text transform="matrix(1 0 0 1 230.0034 83.6309)" font-family="KaiTi" font-size="10px">)</text>
-<text transform="matrix(1 0 0 1 243.4653 20.4629)" font-family="KaiTi" font-size="10px">自力回向</text>
-<text transform="matrix(1 0 0 1 243.4653 62.4629)" font-family="KaiTi" font-size="10px">他力回向</text>
+<text transform="matrix(1 0 0 1 243.4653 20.4629)" font-family="KaiTi" font-size="10px">自力迴向</text>
+<text transform="matrix(1 0 0 1 243.4653 62.4629)" font-family="KaiTi" font-size="10px">他力迴向</text>
 <g>
 	<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="89.5" y1="17.1" x2="92.3" y2="17.1"/>
 	<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="92.3" y1="10.2" x2="95.2" y2="10.2"/>
