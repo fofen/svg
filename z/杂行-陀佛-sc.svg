@@ -9,7 +9,7 @@
 	.st3{font-family:'DFKaiShu-SB-Estd-BF';}
 	.st4{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
 </style>
-<text transform="matrix(1 0 0 1 56.25 8.5938)"><tspan x="0" y="0" class="st0 st1"> 读</tspan><tspan x="15" y="0" class="st0 st1 st2"> </tspan><tspan x="25" y="0" class="st0 st1">诵</tspan><tspan x="0" y="28" class="st0 st1"> 观</tspan><tspan x="15" y="28" class="st0 st1 st2"> </tspan><tspan x="25" y="28" class="st0 st1">察</tspan><tspan x="0" y="42" class="st3 st1">(</tspan><tspan x="5" y="42" class="st0 st1">二大河</tspan><tspan x="35" y="42" class="st3 st1">)</tspan><tspan x="0" y="70" class="st0 st1"> 礼</tspan><tspan x="15" y="70" class="st0 st1 st2"> </tspan><tspan x="25" y="70" class="st0 st1">拜</tspan><tspan x="0" y="84" class="st0 st1"> 称</tspan><tspan x="15" y="84" class="st0 st1 st2"> </tspan><tspan x="25" y="84" class="st0 st1">名</tspan><tspan x="0" y="98" class="st0 st1"> 赞</tspan><tspan x="15" y="98" class="st0 st1 st2"> </tspan><tspan x="25" y="98" class="st0 st1">供</tspan><tspan x="0" y="112" class="st3 st1">(</tspan><tspan x="5" y="112" class="st0 st1">近</tspan><tspan x="15" y="112" class="st0 st1 st2"> </tspan><tspan x="25" y="112" class="st0 st1">海</tspan><tspan x="35" y="112" class="st3 st1">)</tspan><tspan x="0" y="126" class="st0 st1"> </tspan><tspan x="0" y="140" class="st0 st1"> 正</tspan><tspan x="15" y="140" class="st0 st1 st2"> </tspan><tspan x="25" y="140" class="st0 st1">行</tspan></text>
+<text transform="matrix(1 0 0 1 56.25 8.5937)"><tspan x="0" y="0" class="st0 st1"> 读</tspan><tspan x="15" y="0" class="st0 st1 st2"> </tspan><tspan x="25" y="0" class="st0 st1">诵</tspan><tspan x="0" y="28" class="st0 st1"> 观</tspan><tspan x="15" y="28" class="st0 st1 st2"> </tspan><tspan x="25" y="28" class="st0 st1">察</tspan><tspan x="0" y="42" class="st3 st1">(</tspan><tspan x="5" y="42" class="st0 st1">二大河</tspan><tspan x="35" y="42" class="st3 st1">)</tspan><tspan x="0" y="70" class="st0 st1"> 礼</tspan><tspan x="15" y="70" class="st0 st1 st2"> </tspan><tspan x="25" y="70" class="st0 st1">拜</tspan><tspan x="0" y="84" class="st0 st1"> 称</tspan><tspan x="15" y="84" class="st0 st1 st2"> </tspan><tspan x="25" y="84" class="st0 st1">名</tspan><tspan x="0" y="98" class="st0 st1"> 赞</tspan><tspan x="15" y="98" class="st0 st1 st2"> </tspan><tspan x="25" y="98" class="st0 st1">供</tspan><tspan x="0" y="112" class="st3 st1">(</tspan><tspan x="5" y="112" class="st0 st1">近</tspan><tspan x="15" y="112" class="st0 st1 st2"> </tspan><tspan x="25" y="112" class="st0 st1">海</tspan><tspan x="35" y="112" class="st3 st1">)</tspan><tspan x="0" y="126" class="st0 st1"> </tspan><tspan x="0" y="140" class="st0 st1"> 正</tspan><tspan x="15" y="140" class="st0 st1 st2"> </tspan><tspan x="25" y="140" class="st0 st1">行</tspan></text>
 <g>
 	<line class="st4" x1="98.1" y1="33.5" x2="98.1" y2="4.7"/>
 	<line class="st4" x1="98.1" y1="33.5" x2="94.3" y2="33.5"/>
@@ -22,7 +22,7 @@
 	<line class="st4" x1="98.2" y1="74.2" x2="94.4" y2="74.2"/>
 	<line class="st4" x1="98.2" y1="88.6" x2="101.9" y2="88.6"/>
 </g>
-<text transform="matrix(1 0 0 1 37.5 8.5938)"><tspan x="0" y="0" class="st0 st1">闻</tspan><tspan x="0" y="14" class="st0 st1">思</tspan><tspan x="0" y="42" class="st0 st1">修</tspan></text>
+<text transform="matrix(1 0 0 1 37.5 8.5937)"><tspan x="0" y="0" class="st0 st1">闻</tspan><tspan x="0" y="14" class="st0 st1">思</tspan><tspan x="0" y="42" class="st0 st1">修</tspan></text>
 <g>
 	<line class="st4" x1="54.5" y1="47.9" x2="54.5" y2="19.1"/>
 	<line class="st4" x1="54.6" y1="47.9" x2="50.8" y2="47.9"/>
@@ -35,8 +35,8 @@
 	<line class="st4" x1="30.7" y1="47.9" x2="34.5" y2="47.9"/>
 	<line class="st4" x1="30.7" y1="26.3" x2="27" y2="26.3"/>
 </g>
-<text transform="matrix(1 0 0 1 0 29.5938)"><tspan x="0" y="0" class="st0 st1"> 杂行</tspan><tspan x="0" y="14" class="st3 st1">(</tspan><tspan x="5" y="14" class="st0 st1">众水</tspan><tspan x="25" y="14" class="st3 st1">)</tspan><tspan x="0" y="105" class="st0 st1"> </tspan><tspan x="0" y="119" class="st0 st1"> 杂行</tspan></text>
-<text transform="matrix(1 0 0 1 104.875 22.5938)"><tspan x="0" y="0" class="st0 st1">所观之境</tspan><tspan x="0" y="70" class="st0 st1">所念之名</tspan></text>
+<text transform="matrix(1 0 0 1 0 29.5937)"><tspan x="0" y="0" class="st0 st1"> 杂行</tspan><tspan x="0" y="14" class="st3 st1">(</tspan><tspan x="5" y="14" class="st0 st1">众水</tspan><tspan x="25" y="14" class="st3 st1">)</tspan><tspan x="0" y="105" class="st0 st1"> </tspan><tspan x="0" y="119" class="st0 st1"> 杂行</tspan></text>
+<text transform="matrix(1 0 0 1 104.875 22.5937)"><tspan x="0" y="0" class="st0 st1">所观之境</tspan><tspan x="0" y="70" class="st0 st1">所念之名</tspan></text>
 <g>
 	<line class="st4" x1="152.1" y1="88.6" x2="152.1" y2="19.1"/>
 	<line class="st4" x1="152.1" y1="88.6" x2="148.3" y2="88.6"/>
@@ -60,4 +60,5 @@
 		</g>
 	</g>
 </g>
+<line class="st4" x1="50.8" y1="4.7" x2="58.3" y2="4.7"/>
 </svg>
